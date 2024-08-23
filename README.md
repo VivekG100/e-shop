@@ -1,1 +1,2 @@
-# e-shop
+# EShop
+ C#, .Net
